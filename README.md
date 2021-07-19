@@ -1,4 +1,4 @@
-# Tibame 機器學習
+# Tibame 深度學習
 
 #### Imbalanced DATA
 #### Anomaly Detection
