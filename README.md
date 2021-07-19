@@ -1,6 +1,7 @@
 # Tibame 機器學習
 
 #### Imbalanced DATA
+#### Anomaly Detection
 
 #### 2021/7/19 update by ChienMing Lin
 
